@@ -1,0 +1,5 @@
+{
+  "name": "Mindly",
+  "description": "A modern, responsive knowledge management app inspired by Google NotebookLM, featuring a 3-column layout, source management, and AI workspace.",
+  "requestFramePermissions": []
+}
